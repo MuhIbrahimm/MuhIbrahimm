@@ -48,8 +48,22 @@ A simple Bike Sharing Dashboard that provides visualization of data analysis for
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhibrahimm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhibrahimm/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/muhibrahimmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhibrahimmm" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ibrhm.muh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ibrhm.muh/" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/muhibrahimm/">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ibrhm.muh/](https://www.kaggle.com/muhibrahimmm">
+  <img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
+<a href="https://github.com/MuhIbrahimm">
+  <img align="left" alt="Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ibrhm.muh/">
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://t.me/ibrahim_muh">
+  <img align="left" alt="Telegram" src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" />
+</a>
+<a href="mailto:baim21121994@gmail.com">
+  <img align="left" alt="Email" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" />
+</a>
