@@ -20,7 +20,7 @@ Sentiment analysis of reviews of tourist attractions in Bali obtained from Googl
 
 
 ### [ Simple Bike Sharing Dashboard ](https://github.com/MuhIbrahimm/dicoding-data-analysis)<br>
-A simple Bike Sharing Dashboard that provides visualization of data analysis for passing courses in coding
+A simple Bike Sharing Dashboard using Streamlit that provides visualization of exploratory data analysis (EDA) results to support passing courses in Dicoding.
 
 <h3 align="center">Languages and Tools:</h3>
   <p align="center">
