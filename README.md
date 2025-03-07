@@ -41,7 +41,7 @@ A simple Bike Sharing Dashboard using Streamlit that provides visualization of e
 <a href="https://www.linkedin.com/in/muhibrahimm/">
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/ibrhm.muh/](https://www.kaggle.com/muhibrahimmm">
+<a href="https://www.kaggle.com/muhibrahimmm">
   <img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
 <a href="https://github.com/MuhIbrahimm">
